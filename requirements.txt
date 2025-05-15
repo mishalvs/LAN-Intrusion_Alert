@@ -1,0 +1,7 @@
+PyQt5
+pyshark
+scapy
+matplotlib
+requests
+numpy
+joblib
